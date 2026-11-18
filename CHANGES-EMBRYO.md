@@ -6,3 +6,4 @@ Forked from 350908a (commit 350908a) on 2026-11-16. All changes are on the `embr
 |---|---|---|
 | 2026-11-16 | EMBRYO.md, LEGAL.md, CHANGES-EMBRYO.md (new) | Fork notes, legal notes and this list. No original file changed yet. |
 | 2026-11-16 | README.md | Embryo name at the top; the original README follows unchanged |
+| 2026-11-18 | (no file changed) | unix port built into /cluster/svc/engtools without btree/ssl/frozen packages (their sub-projects are not in this copy) |
